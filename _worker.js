@@ -15,7 +15,7 @@ let cacheTTL = 24 ;//小时，缓存时长
 //节点链接 + 订阅链接
 let MainData = `
 https://mykxsw2.dongjian0812.us.kg/sub/757af5ea-4d5b-49a5-a0da-aa896d56039a#BPB-Normal
-https://mykxsw.dongjian0812.us.kg/757af5ea-4d5b-49a5-a0da-aa896d56039a
+http://mykxsw.dongjian.v6.army/757af5ea-4d5b-49a5-a0da-aa896d56039a
 `
 
 let urls = [];
